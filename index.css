@@ -873,4 +873,8 @@ button{
     .pp-header h3{
         font-size: 20px;
     }
+    
+    .about-tabs .tab-item{
+        font-size: 16px;
+    }
 }
